@@ -1,5 +1,5 @@
 <h1>Hi guys!👋</h1>
-<h3>Who i am? 🤔<h3>
+<h3>Who i am? 🤔</h3>
   <p>- 💁‍ My name is <b>João 🇧🇷</b>!</p>
   <p>- 🎓 Studying computer technician at the institution Etec Euro Albino de Souza</p>
   <p>- 💻 Passionate about technology and front-end development</p>
