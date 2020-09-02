@@ -5,5 +5,5 @@
   <p>- 💻 Passionate about technology and front-end development</p>
   <p>- ⚙️ Learning about <b>Javascript</b>, <b>ReactJS</b>, <b>PHP</b>, <b>CSS3</b>, <b>Bootstrap</b></p>
 
-<h3>Social network</b>
+<h3>Social network</h3>
   <p>- 💬 E-mail <b>joao.birelo01@etec.sp.gov.br</b></p>
